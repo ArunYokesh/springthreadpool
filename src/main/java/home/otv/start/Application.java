@@ -19,6 +19,7 @@ public class Application {
 				"applicationContext.xml");
 		Starter starter = (Starter) context.getBean("Starter");
 		starter.start();
+		//Hello people
 	}
 
 }
