@@ -17,6 +17,7 @@ public class Application {
 	public static void main(String[] args) {
 		ApplicationContext context = new ClassPathXmlApplicationContext(
 				"applicationContext.xml");
+		//start
 		Starter starter = (Starter) context.getBean("Starter");
 		starter.start();
 	}
