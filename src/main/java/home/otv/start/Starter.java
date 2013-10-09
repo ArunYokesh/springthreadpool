@@ -14,7 +14,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author X075027
+ * @author X75027
  * 
  */
 public class Starter {
