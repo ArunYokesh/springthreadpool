@@ -15,6 +15,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * @author X075027
+ * Starter class
  * 
  */
 public class Starter {
